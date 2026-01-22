@@ -13,6 +13,3 @@ env/
 .DS_Store
 Thumbs.db
 
-# IDE files
-.vscode/
-.idea/
