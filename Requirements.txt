@@ -1,7 +1,7 @@
-##  `requirements.txt`
 
 numpy
 pandas
-scikit-learn
 matplotlib
 seaborn
+scikit-learn
+xgboost
